@@ -1,0 +1,21 @@
+outlet_id,month,cost_category,amount,vendor
+OUT001,2026-05,Rent,2837.18,Utility Co
+OUT001,2026-05,Utilities,1842.47,Local Supplier
+OUT001,2026-05,Insurance,1217.51,Maintenance Ltd
+OUT001,2026-05,Maintenance,2090.48,Maintenance Ltd
+OUT001,2026-05,Marketing,3095.18,Maintenance Ltd
+OUT002,2026-05,Rent,2246.85,Corporate
+OUT002,2026-05,Utilities,2592.05,Local Supplier
+OUT002,2026-05,Insurance,3165.44,Utility Co
+OUT002,2026-05,Maintenance,3587.07,Corporate
+OUT002,2026-05,Marketing,2234.82,Utility Co
+OUT003,2026-05,Rent,1910.47,Utility Co
+OUT003,2026-05,Utilities,3408.35,Local Supplier
+OUT003,2026-05,Insurance,1242.82,Maintenance Ltd
+OUT003,2026-05,Maintenance,3604.73,Corporate
+OUT003,2026-05,Marketing,4474.75,Utility Co
+OUT004,2026-05,Rent,3485.14,Utility Co
+OUT004,2026-05,Utilities,2675.72,Local Supplier
+OUT004,2026-05,Insurance,1322.40,Maintenance Ltd
+OUT004,2026-05,Maintenance,2566.15,Corporate
+OUT004,2026-05,Marketing,2389.91,Local Supplier

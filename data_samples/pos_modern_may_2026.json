@@ -1,0 +1,1364 @@
+{
+  "transactions": [
+    {
+      "outlet_id": "OUT001",
+      "order_id": "MOUT001-0001",
+      "timestamp": "2026-05-20T00:00:00",
+      "items": [
+        {
+          "product_id": "P004",
+          "name": "Vintage Salad",
+          "category": "Salad",
+          "quantity": 3,
+          "unit_price": 4.85,
+          "promotion_code": null
+        }
+      ],
+      "payment_method": "voucher",
+      "customer_count": 2
+    },
+    {
+      "outlet_id": "OUT001",
+      "order_id": "MOUT001-0002",
+      "timestamp": "2026-05-26T00:00:00",
+      "items": [
+        {
+          "product_id": "P002",
+          "name": "Heritage Fries",
+          "category": "Sides",
+          "quantity": 5,
+          "unit_price": 2.45,
+          "promotion_code": "PROMO5"
+        }
+      ],
+      "payment_method": "voucher",
+      "customer_count": 3
+    },
+    {
+      "outlet_id": "OUT001",
+      "order_id": "MOUT001-0003",
+      "timestamp": "2026-05-21T00:00:00",
+      "items": [
+        {
+          "product_id": "P002",
+          "name": "Heritage Fries",
+          "category": "Sides",
+          "quantity": 5,
+          "unit_price": 2.45,
+          "promotion_code": "PROMO10"
+        }
+      ],
+      "payment_method": "card",
+      "customer_count": 2
+    },
+    {
+      "outlet_id": "OUT001",
+      "order_id": "MOUT001-0004",
+      "timestamp": "2026-05-27T00:00:00",
+      "items": [
+        {
+          "product_id": "P002",
+          "name": "Heritage Fries",
+          "category": "Sides",
+          "quantity": 5,
+          "unit_price": 2.45,
+          "promotion_code": null
+        }
+      ],
+      "payment_method": "cash",
+      "customer_count": 3
+    },
+    {
+      "outlet_id": "OUT001",
+      "order_id": "MOUT001-0005",
+      "timestamp": "2026-05-10T00:00:00",
+      "items": [
+        {
+          "product_id": "P004",
+          "name": "Vintage Salad",
+          "category": "Salad",
+          "quantity": 5,
+          "unit_price": 4.85,
+          "promotion_code": "PROMO10"
+        }
+      ],
+      "payment_method": "card",
+      "customer_count": 1
+    },
+    {
+      "outlet_id": "OUT001",
+      "order_id": "MOUT001-0006",
+      "timestamp": "2026-05-04T00:00:00",
+      "items": [
+        {
+          "product_id": "P003",
+          "name": "Tea Room Shake",
+          "category": "Beverage",
+          "quantity": 3,
+          "unit_price": 3.15,
+          "promotion_code": "PROMO2FOR1"
+        }
+      ],
+      "payment_method": "card",
+      "customer_count": 4
+    },
+    {
+      "outlet_id": "OUT001",
+      "order_id": "MOUT001-0007",
+      "timestamp": "2026-05-13T00:00:00",
+      "items": [
+        {
+          "product_id": "P001",
+          "name": "Retro Burger",
+          "category": "Burger",
+          "quantity": 4,
+          "unit_price": 5.95,
+          "promotion_code": "PROMO10"
+        }
+      ],
+      "payment_method": "voucher",
+      "customer_count": 2
+    },
+    {
+      "outlet_id": "OUT001",
+      "order_id": "MOUT001-0008",
+      "timestamp": "2026-05-01T00:00:00",
+      "items": [
+        {
+          "product_id": "P004",
+          "name": "Vintage Salad",
+          "category": "Salad",
+          "quantity": 5,
+          "unit_price": 4.85,
+          "promotion_code": "PROMO5"
+        }
+      ],
+      "payment_method": "voucher",
+      "customer_count": 3
+    },
+    {
+      "outlet_id": "OUT001",
+      "order_id": "MOUT001-0009",
+      "timestamp": "2026-05-29T00:00:00",
+      "items": [
+        {
+          "product_id": "P002",
+          "name": "Heritage Fries",
+          "category": "Sides",
+          "quantity": 1,
+          "unit_price": 2.45,
+          "promotion_code": null
+        }
+      ],
+      "payment_method": "card",
+      "customer_count": 2
+    },
+    {
+      "outlet_id": "OUT001",
+      "order_id": "MOUT001-0010",
+      "timestamp": "2026-05-26T00:00:00",
+      "items": [
+        {
+          "product_id": "P003",
+          "name": "Tea Room Shake",
+          "category": "Beverage",
+          "quantity": 5,
+          "unit_price": 3.15,
+          "promotion_code": "PROMO2FOR1"
+        }
+      ],
+      "payment_method": "cash",
+      "customer_count": 1
+    },
+    {
+      "outlet_id": "OUT001",
+      "order_id": "MOUT001-0011",
+      "timestamp": "2026-05-15T00:00:00",
+      "items": [
+        {
+          "product_id": "P004",
+          "name": "Vintage Salad",
+          "category": "Salad",
+          "quantity": 1,
+          "unit_price": 4.85,
+          "promotion_code": "PROMO5"
+        }
+      ],
+      "payment_method": "voucher",
+      "customer_count": 1
+    },
+    {
+      "outlet_id": "OUT001",
+      "order_id": "MOUT001-0012",
+      "timestamp": "2026-05-03T00:00:00",
+      "items": [
+        {
+          "product_id": "P001",
+          "name": "Retro Burger",
+          "category": "Burger",
+          "quantity": 5,
+          "unit_price": 5.95,
+          "promotion_code": null
+        }
+      ],
+      "payment_method": "cash",
+      "customer_count": 1
+    },
+    {
+      "outlet_id": "OUT001",
+      "order_id": "MOUT001-0013",
+      "timestamp": "2026-05-07T00:00:00",
+      "items": [
+        {
+          "product_id": "P003",
+          "name": "Tea Room Shake",
+          "category": "Beverage",
+          "quantity": 5,
+          "unit_price": 3.15,
+          "promotion_code": null
+        }
+      ],
+      "payment_method": "cash",
+      "customer_count": 1
+    },
+    {
+      "outlet_id": "OUT001",
+      "order_id": "MOUT001-0014",
+      "timestamp": "2026-05-13T00:00:00",
+      "items": [
+        {
+          "product_id": "P004",
+          "name": "Vintage Salad",
+          "category": "Salad",
+          "quantity": 1,
+          "unit_price": 4.85,
+          "promotion_code": "PROMO10"
+        }
+      ],
+      "payment_method": "voucher",
+      "customer_count": 1
+    },
+    {
+      "outlet_id": "OUT001",
+      "order_id": "MOUT001-0015",
+      "timestamp": "2026-05-18T00:00:00",
+      "items": [
+        {
+          "product_id": "P001",
+          "name": "Retro Burger",
+          "category": "Burger",
+          "quantity": 3,
+          "unit_price": 5.95,
+          "promotion_code": null
+        }
+      ],
+      "payment_method": "voucher",
+      "customer_count": 2
+    },
+    {
+      "outlet_id": "OUT001",
+      "order_id": "MOUT001-0016",
+      "timestamp": "2026-05-03T00:00:00",
+      "items": [
+        {
+          "product_id": "P004",
+          "name": "Vintage Salad",
+          "category": "Salad",
+          "quantity": 5,
+          "unit_price": 4.85,
+          "promotion_code": "PROMO2FOR1"
+        }
+      ],
+      "payment_method": "voucher",
+      "customer_count": 4
+    },
+    {
+      "outlet_id": "OUT001",
+      "order_id": "MOUT001-0017",
+      "timestamp": "2026-05-23T00:00:00",
+      "items": [
+        {
+          "product_id": "P003",
+          "name": "Tea Room Shake",
+          "category": "Beverage",
+          "quantity": 3,
+          "unit_price": 3.15,
+          "promotion_code": null
+        }
+      ],
+      "payment_method": "card",
+      "customer_count": 1
+    },
+    {
+      "outlet_id": "OUT001",
+      "order_id": "MOUT001-0018",
+      "timestamp": "2026-05-22T00:00:00",
+      "items": [
+        {
+          "product_id": "P002",
+          "name": "Heritage Fries",
+          "category": "Sides",
+          "quantity": 1,
+          "unit_price": 2.45,
+          "promotion_code": null
+        }
+      ],
+      "payment_method": "card",
+      "customer_count": 1
+    },
+    {
+      "outlet_id": "OUT001",
+      "order_id": "MOUT001-0019",
+      "timestamp": "2026-05-07T00:00:00",
+      "items": [
+        {
+          "product_id": "P004",
+          "name": "Vintage Salad",
+          "category": "Salad",
+          "quantity": 2,
+          "unit_price": 4.85,
+          "promotion_code": "PROMO5"
+        }
+      ],
+      "payment_method": "card",
+      "customer_count": 1
+    },
+    {
+      "outlet_id": "OUT001",
+      "order_id": "MOUT001-0020",
+      "timestamp": "2026-05-13T00:00:00",
+      "items": [
+        {
+          "product_id": "P003",
+          "name": "Tea Room Shake",
+          "category": "Beverage",
+          "quantity": 1,
+          "unit_price": 3.15,
+          "promotion_code": null
+        }
+      ],
+      "payment_method": "cash",
+      "customer_count": 1
+    },
+    {
+      "outlet_id": "OUT002",
+      "order_id": "MOUT002-0001",
+      "timestamp": "2026-05-21T00:00:00",
+      "items": [
+        {
+          "product_id": "P003",
+          "name": "Tea Room Shake",
+          "category": "Beverage",
+          "quantity": 4,
+          "unit_price": 3.15,
+          "promotion_code": "PROMO2FOR1"
+        }
+      ],
+      "payment_method": "voucher",
+      "customer_count": 1
+    },
+    {
+      "outlet_id": "OUT002",
+      "order_id": "MOUT002-0002",
+      "timestamp": "2026-05-29T00:00:00",
+      "items": [
+        {
+          "product_id": "P004",
+          "name": "Vintage Salad",
+          "category": "Salad",
+          "quantity": 3,
+          "unit_price": 4.85,
+          "promotion_code": "PROMO2FOR1"
+        }
+      ],
+      "payment_method": "voucher",
+      "customer_count": 1
+    },
+    {
+      "outlet_id": "OUT002",
+      "order_id": "MOUT002-0003",
+      "timestamp": "2026-05-14T00:00:00",
+      "items": [
+        {
+          "product_id": "P004",
+          "name": "Vintage Salad",
+          "category": "Salad",
+          "quantity": 1,
+          "unit_price": 4.85,
+          "promotion_code": null
+        }
+      ],
+      "payment_method": "cash",
+      "customer_count": 2
+    },
+    {
+      "outlet_id": "OUT002",
+      "order_id": "MOUT002-0004",
+      "timestamp": "2026-05-13T00:00:00",
+      "items": [
+        {
+          "product_id": "P004",
+          "name": "Vintage Salad",
+          "category": "Salad",
+          "quantity": 2,
+          "unit_price": 4.85,
+          "promotion_code": "PROMO2FOR1"
+        }
+      ],
+      "payment_method": "voucher",
+      "customer_count": 3
+    },
+    {
+      "outlet_id": "OUT002",
+      "order_id": "MOUT002-0005",
+      "timestamp": "2026-05-03T00:00:00",
+      "items": [
+        {
+          "product_id": "P002",
+          "name": "Heritage Fries",
+          "category": "Sides",
+          "quantity": 1,
+          "unit_price": 2.45,
+          "promotion_code": "PROMO10"
+        }
+      ],
+      "payment_method": "voucher",
+      "customer_count": 4
+    },
+    {
+      "outlet_id": "OUT002",
+      "order_id": "MOUT002-0006",
+      "timestamp": "2026-05-06T00:00:00",
+      "items": [
+        {
+          "product_id": "P003",
+          "name": "Tea Room Shake",
+          "category": "Beverage",
+          "quantity": 4,
+          "unit_price": 3.15,
+          "promotion_code": "PROMO10"
+        }
+      ],
+      "payment_method": "cash",
+      "customer_count": 1
+    },
+    {
+      "outlet_id": "OUT002",
+      "order_id": "MOUT002-0007",
+      "timestamp": "2026-05-20T00:00:00",
+      "items": [
+        {
+          "product_id": "P001",
+          "name": "Retro Burger",
+          "category": "Burger",
+          "quantity": 5,
+          "unit_price": 5.95,
+          "promotion_code": "PROMO2FOR1"
+        }
+      ],
+      "payment_method": "card",
+      "customer_count": 2
+    },
+    {
+      "outlet_id": "OUT002",
+      "order_id": "MOUT002-0008",
+      "timestamp": "2026-05-05T00:00:00",
+      "items": [
+        {
+          "product_id": "P002",
+          "name": "Heritage Fries",
+          "category": "Sides",
+          "quantity": 5,
+          "unit_price": 2.45,
+          "promotion_code": null
+        }
+      ],
+      "payment_method": "cash",
+      "customer_count": 2
+    },
+    {
+      "outlet_id": "OUT002",
+      "order_id": "MOUT002-0009",
+      "timestamp": "2026-05-23T00:00:00",
+      "items": [
+        {
+          "product_id": "P002",
+          "name": "Heritage Fries",
+          "category": "Sides",
+          "quantity": 4,
+          "unit_price": 2.45,
+          "promotion_code": null
+        }
+      ],
+      "payment_method": "card",
+      "customer_count": 4
+    },
+    {
+      "outlet_id": "OUT002",
+      "order_id": "MOUT002-0010",
+      "timestamp": "2026-05-25T00:00:00",
+      "items": [
+        {
+          "product_id": "P004",
+          "name": "Vintage Salad",
+          "category": "Salad",
+          "quantity": 1,
+          "unit_price": 4.85,
+          "promotion_code": null
+        }
+      ],
+      "payment_method": "voucher",
+      "customer_count": 1
+    },
+    {
+      "outlet_id": "OUT002",
+      "order_id": "MOUT002-0011",
+      "timestamp": "2026-05-14T00:00:00",
+      "items": [
+        {
+          "product_id": "P001",
+          "name": "Retro Burger",
+          "category": "Burger",
+          "quantity": 2,
+          "unit_price": 5.95,
+          "promotion_code": "PROMO2FOR1"
+        }
+      ],
+      "payment_method": "voucher",
+      "customer_count": 2
+    },
+    {
+      "outlet_id": "OUT002",
+      "order_id": "MOUT002-0012",
+      "timestamp": "2026-05-09T00:00:00",
+      "items": [
+        {
+          "product_id": "P003",
+          "name": "Tea Room Shake",
+          "category": "Beverage",
+          "quantity": 3,
+          "unit_price": 3.15,
+          "promotion_code": null
+        }
+      ],
+      "payment_method": "voucher",
+      "customer_count": 1
+    },
+    {
+      "outlet_id": "OUT002",
+      "order_id": "MOUT002-0013",
+      "timestamp": "2026-05-14T00:00:00",
+      "items": [
+        {
+          "product_id": "P001",
+          "name": "Retro Burger",
+          "category": "Burger",
+          "quantity": 4,
+          "unit_price": 5.95,
+          "promotion_code": "PROMO2FOR1"
+        }
+      ],
+      "payment_method": "voucher",
+      "customer_count": 3
+    },
+    {
+      "outlet_id": "OUT002",
+      "order_id": "MOUT002-0014",
+      "timestamp": "2026-05-22T00:00:00",
+      "items": [
+        {
+          "product_id": "P004",
+          "name": "Vintage Salad",
+          "category": "Salad",
+          "quantity": 5,
+          "unit_price": 4.85,
+          "promotion_code": "PROMO10"
+        }
+      ],
+      "payment_method": "card",
+      "customer_count": 1
+    },
+    {
+      "outlet_id": "OUT002",
+      "order_id": "MOUT002-0015",
+      "timestamp": "2026-05-11T00:00:00",
+      "items": [
+        {
+          "product_id": "P001",
+          "name": "Retro Burger",
+          "category": "Burger",
+          "quantity": 5,
+          "unit_price": 5.95,
+          "promotion_code": "PROMO2FOR1"
+        }
+      ],
+      "payment_method": "voucher",
+      "customer_count": 1
+    },
+    {
+      "outlet_id": "OUT002",
+      "order_id": "MOUT002-0016",
+      "timestamp": "2026-05-27T00:00:00",
+      "items": [
+        {
+          "product_id": "P003",
+          "name": "Tea Room Shake",
+          "category": "Beverage",
+          "quantity": 5,
+          "unit_price": 3.15,
+          "promotion_code": "PROMO10"
+        }
+      ],
+      "payment_method": "card",
+      "customer_count": 4
+    },
+    {
+      "outlet_id": "OUT002",
+      "order_id": "MOUT002-0017",
+      "timestamp": "2026-05-26T00:00:00",
+      "items": [
+        {
+          "product_id": "P004",
+          "name": "Vintage Salad",
+          "category": "Salad",
+          "quantity": 1,
+          "unit_price": 4.85,
+          "promotion_code": "PROMO10"
+        }
+      ],
+      "payment_method": "card",
+      "customer_count": 4
+    },
+    {
+      "outlet_id": "OUT002",
+      "order_id": "MOUT002-0018",
+      "timestamp": "2026-05-07T00:00:00",
+      "items": [
+        {
+          "product_id": "P002",
+          "name": "Heritage Fries",
+          "category": "Sides",
+          "quantity": 3,
+          "unit_price": 2.45,
+          "promotion_code": "PROMO2FOR1"
+        }
+      ],
+      "payment_method": "voucher",
+      "customer_count": 2
+    },
+    {
+      "outlet_id": "OUT002",
+      "order_id": "MOUT002-0019",
+      "timestamp": "2026-05-11T00:00:00",
+      "items": [
+        {
+          "product_id": "P004",
+          "name": "Vintage Salad",
+          "category": "Salad",
+          "quantity": 4,
+          "unit_price": 4.85,
+          "promotion_code": "PROMO10"
+        }
+      ],
+      "payment_method": "voucher",
+      "customer_count": 4
+    },
+    {
+      "outlet_id": "OUT002",
+      "order_id": "MOUT002-0020",
+      "timestamp": "2026-05-23T00:00:00",
+      "items": [
+        {
+          "product_id": "P001",
+          "name": "Retro Burger",
+          "category": "Burger",
+          "quantity": 5,
+          "unit_price": 5.95,
+          "promotion_code": null
+        }
+      ],
+      "payment_method": "card",
+      "customer_count": 2
+    },
+    {
+      "outlet_id": "OUT003",
+      "order_id": "MOUT003-0001",
+      "timestamp": "2026-05-30T00:00:00",
+      "items": [
+        {
+          "product_id": "P001",
+          "name": "Retro Burger",
+          "category": "Burger",
+          "quantity": 5,
+          "unit_price": 5.95,
+          "promotion_code": "PROMO10"
+        }
+      ],
+      "payment_method": "card",
+      "customer_count": 1
+    },
+    {
+      "outlet_id": "OUT003",
+      "order_id": "MOUT003-0002",
+      "timestamp": "2026-05-11T00:00:00",
+      "items": [
+        {
+          "product_id": "P001",
+          "name": "Retro Burger",
+          "category": "Burger",
+          "quantity": 3,
+          "unit_price": 5.95,
+          "promotion_code": "PROMO2FOR1"
+        }
+      ],
+      "payment_method": "voucher",
+      "customer_count": 2
+    },
+    {
+      "outlet_id": "OUT003",
+      "order_id": "MOUT003-0003",
+      "timestamp": "2026-05-03T00:00:00",
+      "items": [
+        {
+          "product_id": "P003",
+          "name": "Tea Room Shake",
+          "category": "Beverage",
+          "quantity": 2,
+          "unit_price": 3.15,
+          "promotion_code": "PROMO2FOR1"
+        }
+      ],
+      "payment_method": "cash",
+      "customer_count": 2
+    },
+    {
+      "outlet_id": "OUT003",
+      "order_id": "MOUT003-0004",
+      "timestamp": "2026-05-10T00:00:00",
+      "items": [
+        {
+          "product_id": "P003",
+          "name": "Tea Room Shake",
+          "category": "Beverage",
+          "quantity": 5,
+          "unit_price": 3.15,
+          "promotion_code": null
+        }
+      ],
+      "payment_method": "voucher",
+      "customer_count": 3
+    },
+    {
+      "outlet_id": "OUT003",
+      "order_id": "MOUT003-0005",
+      "timestamp": "2026-05-25T00:00:00",
+      "items": [
+        {
+          "product_id": "P003",
+          "name": "Tea Room Shake",
+          "category": "Beverage",
+          "quantity": 3,
+          "unit_price": 3.15,
+          "promotion_code": "PROMO5"
+        }
+      ],
+      "payment_method": "voucher",
+      "customer_count": 3
+    },
+    {
+      "outlet_id": "OUT003",
+      "order_id": "MOUT003-0006",
+      "timestamp": "2026-05-03T00:00:00",
+      "items": [
+        {
+          "product_id": "P002",
+          "name": "Heritage Fries",
+          "category": "Sides",
+          "quantity": 5,
+          "unit_price": 2.45,
+          "promotion_code": "PROMO5"
+        }
+      ],
+      "payment_method": "card",
+      "customer_count": 1
+    },
+    {
+      "outlet_id": "OUT003",
+      "order_id": "MOUT003-0007",
+      "timestamp": "2026-05-17T00:00:00",
+      "items": [
+        {
+          "product_id": "P004",
+          "name": "Vintage Salad",
+          "category": "Salad",
+          "quantity": 3,
+          "unit_price": 4.85,
+          "promotion_code": "PROMO5"
+        }
+      ],
+      "payment_method": "card",
+      "customer_count": 4
+    },
+    {
+      "outlet_id": "OUT003",
+      "order_id": "MOUT003-0008",
+      "timestamp": "2026-05-07T00:00:00",
+      "items": [
+        {
+          "product_id": "P001",
+          "name": "Retro Burger",
+          "category": "Burger",
+          "quantity": 4,
+          "unit_price": 5.95,
+          "promotion_code": null
+        }
+      ],
+      "payment_method": "cash",
+      "customer_count": 4
+    },
+    {
+      "outlet_id": "OUT003",
+      "order_id": "MOUT003-0009",
+      "timestamp": "2026-05-18T00:00:00",
+      "items": [
+        {
+          "product_id": "P003",
+          "name": "Tea Room Shake",
+          "category": "Beverage",
+          "quantity": 5,
+          "unit_price": 3.15,
+          "promotion_code": null
+        }
+      ],
+      "payment_method": "card",
+      "customer_count": 1
+    },
+    {
+      "outlet_id": "OUT003",
+      "order_id": "MOUT003-0010",
+      "timestamp": "2026-05-13T00:00:00",
+      "items": [
+        {
+          "product_id": "P004",
+          "name": "Vintage Salad",
+          "category": "Salad",
+          "quantity": 5,
+          "unit_price": 4.85,
+          "promotion_code": "PROMO5"
+        }
+      ],
+      "payment_method": "voucher",
+      "customer_count": 1
+    },
+    {
+      "outlet_id": "OUT003",
+      "order_id": "MOUT003-0011",
+      "timestamp": "2026-05-03T00:00:00",
+      "items": [
+        {
+          "product_id": "P002",
+          "name": "Heritage Fries",
+          "category": "Sides",
+          "quantity": 4,
+          "unit_price": 2.45,
+          "promotion_code": "PROMO10"
+        }
+      ],
+      "payment_method": "voucher",
+      "customer_count": 4
+    },
+    {
+      "outlet_id": "OUT003",
+      "order_id": "MOUT003-0012",
+      "timestamp": "2026-05-02T00:00:00",
+      "items": [
+        {
+          "product_id": "P003",
+          "name": "Tea Room Shake",
+          "category": "Beverage",
+          "quantity": 5,
+          "unit_price": 3.15,
+          "promotion_code": "PROMO2FOR1"
+        }
+      ],
+      "payment_method": "voucher",
+      "customer_count": 2
+    },
+    {
+      "outlet_id": "OUT003",
+      "order_id": "MOUT003-0013",
+      "timestamp": "2026-05-16T00:00:00",
+      "items": [
+        {
+          "product_id": "P003",
+          "name": "Tea Room Shake",
+          "category": "Beverage",
+          "quantity": 2,
+          "unit_price": 3.15,
+          "promotion_code": "PROMO10"
+        }
+      ],
+      "payment_method": "cash",
+      "customer_count": 2
+    },
+    {
+      "outlet_id": "OUT003",
+      "order_id": "MOUT003-0014",
+      "timestamp": "2026-05-24T00:00:00",
+      "items": [
+        {
+          "product_id": "P003",
+          "name": "Tea Room Shake",
+          "category": "Beverage",
+          "quantity": 5,
+          "unit_price": 3.15,
+          "promotion_code": "PROMO2FOR1"
+        }
+      ],
+      "payment_method": "cash",
+      "customer_count": 3
+    },
+    {
+      "outlet_id": "OUT003",
+      "order_id": "MOUT003-0015",
+      "timestamp": "2026-05-26T00:00:00",
+      "items": [
+        {
+          "product_id": "P002",
+          "name": "Heritage Fries",
+          "category": "Sides",
+          "quantity": 3,
+          "unit_price": 2.45,
+          "promotion_code": "PROMO10"
+        }
+      ],
+      "payment_method": "card",
+      "customer_count": 2
+    },
+    {
+      "outlet_id": "OUT003",
+      "order_id": "MOUT003-0016",
+      "timestamp": "2026-05-18T00:00:00",
+      "items": [
+        {
+          "product_id": "P004",
+          "name": "Vintage Salad",
+          "category": "Salad",
+          "quantity": 1,
+          "unit_price": 4.85,
+          "promotion_code": "PROMO5"
+        }
+      ],
+      "payment_method": "card",
+      "customer_count": 1
+    },
+    {
+      "outlet_id": "OUT003",
+      "order_id": "MOUT003-0017",
+      "timestamp": "2026-05-16T00:00:00",
+      "items": [
+        {
+          "product_id": "P003",
+          "name": "Tea Room Shake",
+          "category": "Beverage",
+          "quantity": 2,
+          "unit_price": 3.15,
+          "promotion_code": "PROMO2FOR1"
+        }
+      ],
+      "payment_method": "voucher",
+      "customer_count": 4
+    },
+    {
+      "outlet_id": "OUT003",
+      "order_id": "MOUT003-0018",
+      "timestamp": "2026-05-09T00:00:00",
+      "items": [
+        {
+          "product_id": "P001",
+          "name": "Retro Burger",
+          "category": "Burger",
+          "quantity": 3,
+          "unit_price": 5.95,
+          "promotion_code": null
+        }
+      ],
+      "payment_method": "voucher",
+      "customer_count": 4
+    },
+    {
+      "outlet_id": "OUT003",
+      "order_id": "MOUT003-0019",
+      "timestamp": "2026-05-17T00:00:00",
+      "items": [
+        {
+          "product_id": "P004",
+          "name": "Vintage Salad",
+          "category": "Salad",
+          "quantity": 3,
+          "unit_price": 4.85,
+          "promotion_code": null
+        }
+      ],
+      "payment_method": "voucher",
+      "customer_count": 2
+    },
+    {
+      "outlet_id": "OUT003",
+      "order_id": "MOUT003-0020",
+      "timestamp": "2026-05-02T00:00:00",
+      "items": [
+        {
+          "product_id": "P003",
+          "name": "Tea Room Shake",
+          "category": "Beverage",
+          "quantity": 2,
+          "unit_price": 3.15,
+          "promotion_code": "PROMO5"
+        }
+      ],
+      "payment_method": "card",
+      "customer_count": 2
+    },
+    {
+      "outlet_id": "OUT004",
+      "order_id": "MOUT004-0001",
+      "timestamp": "2026-05-02T00:00:00",
+      "items": [
+        {
+          "product_id": "P003",
+          "name": "Tea Room Shake",
+          "category": "Beverage",
+          "quantity": 1,
+          "unit_price": 3.15,
+          "promotion_code": "PROMO5"
+        }
+      ],
+      "payment_method": "card",
+      "customer_count": 2
+    },
+    {
+      "outlet_id": "OUT004",
+      "order_id": "MOUT004-0002",
+      "timestamp": "2026-05-22T00:00:00",
+      "items": [
+        {
+          "product_id": "P003",
+          "name": "Tea Room Shake",
+          "category": "Beverage",
+          "quantity": 5,
+          "unit_price": 3.15,
+          "promotion_code": "PROMO5"
+        }
+      ],
+      "payment_method": "card",
+      "customer_count": 1
+    },
+    {
+      "outlet_id": "OUT004",
+      "order_id": "MOUT004-0003",
+      "timestamp": "2026-05-16T00:00:00",
+      "items": [
+        {
+          "product_id": "P002",
+          "name": "Heritage Fries",
+          "category": "Sides",
+          "quantity": 3,
+          "unit_price": 2.45,
+          "promotion_code": "PROMO2FOR1"
+        }
+      ],
+      "payment_method": "card",
+      "customer_count": 1
+    },
+    {
+      "outlet_id": "OUT004",
+      "order_id": "MOUT004-0004",
+      "timestamp": "2026-05-16T00:00:00",
+      "items": [
+        {
+          "product_id": "P001",
+          "name": "Retro Burger",
+          "category": "Burger",
+          "quantity": 4,
+          "unit_price": 5.95,
+          "promotion_code": "PROMO2FOR1"
+        }
+      ],
+      "payment_method": "cash",
+      "customer_count": 3
+    },
+    {
+      "outlet_id": "OUT004",
+      "order_id": "MOUT004-0005",
+      "timestamp": "2026-05-17T00:00:00",
+      "items": [
+        {
+          "product_id": "P003",
+          "name": "Tea Room Shake",
+          "category": "Beverage",
+          "quantity": 1,
+          "unit_price": 3.15,
+          "promotion_code": null
+        }
+      ],
+      "payment_method": "cash",
+      "customer_count": 4
+    },
+    {
+      "outlet_id": "OUT004",
+      "order_id": "MOUT004-0006",
+      "timestamp": "2026-05-12T00:00:00",
+      "items": [
+        {
+          "product_id": "P001",
+          "name": "Retro Burger",
+          "category": "Burger",
+          "quantity": 5,
+          "unit_price": 5.95,
+          "promotion_code": "PROMO5"
+        }
+      ],
+      "payment_method": "cash",
+      "customer_count": 2
+    },
+    {
+      "outlet_id": "OUT004",
+      "order_id": "MOUT004-0007",
+      "timestamp": "2026-05-12T00:00:00",
+      "items": [
+        {
+          "product_id": "P001",
+          "name": "Retro Burger",
+          "category": "Burger",
+          "quantity": 2,
+          "unit_price": 5.95,
+          "promotion_code": null
+        }
+      ],
+      "payment_method": "cash",
+      "customer_count": 2
+    },
+    {
+      "outlet_id": "OUT004",
+      "order_id": "MOUT004-0008",
+      "timestamp": "2026-05-15T00:00:00",
+      "items": [
+        {
+          "product_id": "P003",
+          "name": "Tea Room Shake",
+          "category": "Beverage",
+          "quantity": 1,
+          "unit_price": 3.15,
+          "promotion_code": "PROMO2FOR1"
+        }
+      ],
+      "payment_method": "cash",
+      "customer_count": 2
+    },
+    {
+      "outlet_id": "OUT004",
+      "order_id": "MOUT004-0009",
+      "timestamp": "2026-05-19T00:00:00",
+      "items": [
+        {
+          "product_id": "P002",
+          "name": "Heritage Fries",
+          "category": "Sides",
+          "quantity": 1,
+          "unit_price": 2.45,
+          "promotion_code": "PROMO10"
+        }
+      ],
+      "payment_method": "card",
+      "customer_count": 1
+    },
+    {
+      "outlet_id": "OUT004",
+      "order_id": "MOUT004-0010",
+      "timestamp": "2026-05-30T00:00:00",
+      "items": [
+        {
+          "product_id": "P001",
+          "name": "Retro Burger",
+          "category": "Burger",
+          "quantity": 2,
+          "unit_price": 5.95,
+          "promotion_code": "PROMO5"
+        }
+      ],
+      "payment_method": "card",
+      "customer_count": 3
+    },
+    {
+      "outlet_id": "OUT004",
+      "order_id": "MOUT004-0011",
+      "timestamp": "2026-05-09T00:00:00",
+      "items": [
+        {
+          "product_id": "P004",
+          "name": "Vintage Salad",
+          "category": "Salad",
+          "quantity": 4,
+          "unit_price": 4.85,
+          "promotion_code": null
+        }
+      ],
+      "payment_method": "voucher",
+      "customer_count": 2
+    },
+    {
+      "outlet_id": "OUT004",
+      "order_id": "MOUT004-0012",
+      "timestamp": "2026-05-10T00:00:00",
+      "items": [
+        {
+          "product_id": "P002",
+          "name": "Heritage Fries",
+          "category": "Sides",
+          "quantity": 1,
+          "unit_price": 2.45,
+          "promotion_code": "PROMO2FOR1"
+        }
+      ],
+      "payment_method": "voucher",
+      "customer_count": 4
+    },
+    {
+      "outlet_id": "OUT004",
+      "order_id": "MOUT004-0013",
+      "timestamp": "2026-05-28T00:00:00",
+      "items": [
+        {
+          "product_id": "P004",
+          "name": "Vintage Salad",
+          "category": "Salad",
+          "quantity": 2,
+          "unit_price": 4.85,
+          "promotion_code": null
+        }
+      ],
+      "payment_method": "voucher",
+      "customer_count": 1
+    },
+    {
+      "outlet_id": "OUT004",
+      "order_id": "MOUT004-0014",
+      "timestamp": "2026-05-10T00:00:00",
+      "items": [
+        {
+          "product_id": "P002",
+          "name": "Heritage Fries",
+          "category": "Sides",
+          "quantity": 3,
+          "unit_price": 2.45,
+          "promotion_code": null
+        }
+      ],
+      "payment_method": "voucher",
+      "customer_count": 4
+    },
+    {
+      "outlet_id": "OUT004",
+      "order_id": "MOUT004-0015",
+      "timestamp": "2026-05-27T00:00:00",
+      "items": [
+        {
+          "product_id": "P001",
+          "name": "Retro Burger",
+          "category": "Burger",
+          "quantity": 1,
+          "unit_price": 5.95,
+          "promotion_code": "PROMO10"
+        }
+      ],
+      "payment_method": "card",
+      "customer_count": 1
+    },
+    {
+      "outlet_id": "OUT004",
+      "order_id": "MOUT004-0016",
+      "timestamp": "2026-05-10T00:00:00",
+      "items": [
+        {
+          "product_id": "P001",
+          "name": "Retro Burger",
+          "category": "Burger",
+          "quantity": 2,
+          "unit_price": 5.95,
+          "promotion_code": null
+        }
+      ],
+      "payment_method": "card",
+      "customer_count": 2
+    },
+    {
+      "outlet_id": "OUT004",
+      "order_id": "MOUT004-0017",
+      "timestamp": "2026-05-19T00:00:00",
+      "items": [
+        {
+          "product_id": "P004",
+          "name": "Vintage Salad",
+          "category": "Salad",
+          "quantity": 2,
+          "unit_price": 4.85,
+          "promotion_code": "PROMO10"
+        }
+      ],
+      "payment_method": "cash",
+      "customer_count": 3
+    },
+    {
+      "outlet_id": "OUT004",
+      "order_id": "MOUT004-0018",
+      "timestamp": "2026-05-01T00:00:00",
+      "items": [
+        {
+          "product_id": "P001",
+          "name": "Retro Burger",
+          "category": "Burger",
+          "quantity": 5,
+          "unit_price": 5.95,
+          "promotion_code": "PROMO2FOR1"
+        }
+      ],
+      "payment_method": "cash",
+      "customer_count": 2
+    },
+    {
+      "outlet_id": "OUT004",
+      "order_id": "MOUT004-0019",
+      "timestamp": "2026-05-20T00:00:00",
+      "items": [
+        {
+          "product_id": "P004",
+          "name": "Vintage Salad",
+          "category": "Salad",
+          "quantity": 3,
+          "unit_price": 4.85,
+          "promotion_code": "PROMO5"
+        }
+      ],
+      "payment_method": "voucher",
+      "customer_count": 4
+    },
+    {
+      "outlet_id": "OUT004",
+      "order_id": "MOUT004-0020",
+      "timestamp": "2026-05-07T00:00:00",
+      "items": [
+        {
+          "product_id": "P004",
+          "name": "Vintage Salad",
+          "category": "Salad",
+          "quantity": 4,
+          "unit_price": 4.85,
+          "promotion_code": "PROMO5"
+        }
+      ],
+      "payment_method": "voucher",
+      "customer_count": 3
+    }
+  ]
+}

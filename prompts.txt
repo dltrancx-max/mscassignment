@@ -1,0 +1,54 @@
+1. Assignment Requirements 3.1 Case study: Developing a Data Management Strategy for Eta-Beta-Pi ... (full assignment description)
+2. Flow:
+Abstract
+Introduction
+Business case
+Literature Review
+User stories / use cases
+Enterprise approach for the solution
+Proposed solution
+Critical analysis with solution justification
+Logical design
+Physical design
+Solution Architecture
+Conclusion  , can you create another md file following the sequence
+3. I need start a technicle solution for this assignemnt , shall we discuss that first
+4. I need a full solution from inbound dat sources which is generated from diversified POS systems and all the way ending with datra insights as per given criteria in the assignment. this include an ELT approach furthe with large tablular model for visulizing tablualer data and melallion archtecture with data pipeline appaorch using notebook based data enginering with spark and dataframes. yes we can go ahead with google infrasturuture with atlas mongo db . lets discuss the front end back end teachlogies in detail based on this which sgould head to a solution architecture diagram
+5. ```mermaid
+flowchart LR
+  subgraph Inbound
+    A[Legacy PoS CSV/Excel] --> B[Bronze GCS]
+    C[Modern PoS JSON/API] --> D[MongoDB Atlas Raw]
+    E[Monthly Franchise Reports] --> B
+    F[Franchise Operating Data] --> B
+  end
+
+  subgraph Bronze[Bronze Layer]
+    B --> G[Spark Notebooks]
+    D --> G
+  end
+
+  subgraph Silver[Silver Layer]
+    G --> H[Silver Parquet / Curated Tables]
+  end
+
+  subgraph Gold[Gold Layer]
+    H --> I[BigQuery Analytical Tables]
+    I --> J[BI Dashboards]
+    I --> K[API Backend]
+  end
+
+  subgraph Application[Application Layer]
+    K --> L[React Analytics Portal]
+    J --> M[Executive Dashboards]
+  end
+
+  style Bronze fill:#f9f,stroke:#333,stroke-width:1px
+  style Silver fill:#9f9,stroke:#333,stroke-width:1px
+  style Gold fill:#99f,stroke:#333,stroke-width:1px
+``` this mermaid doesnt give a professional solution architecture diagram wiith proper icon usage
+6. can you have a look on the sa.png image
+7. can you give the business process flow mapping to the technical components
+8. what is the best place to start developing the solution
+9. how about the data sources , shall we create some sythetic data
+10. please give me all the prompts up to now and create a txt file called prompts
